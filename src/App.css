@@ -1,0 +1,19 @@
+.chart{
+  width: 500px;
+  height: 500px;
+}
+
+path:nth-child(1){
+  fill: #28C76F;
+}
+path:nth-child(2){
+  fill: #F8A1AB;
+}
+path:nth-child(3){
+  fill: #FF9F43;
+}
+
+
+.parentDiv{
+  border: 1px solid red;
+}
